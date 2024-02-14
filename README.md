@@ -1,2 +1,2 @@
 # Hospital-Management-project
-inside the hospital management project we can get patient, doctor list, schedule. 
+Developed a comprehensive Hospital Management Application leveraging Java programming language. The application aimed to streamline hospital operations and enhance patient management.
